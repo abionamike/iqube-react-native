@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "iqube app splash screens built with react-native (expo)",
+    "githubUrl": "https://github.com/abionamike/iqube-react-native"
   }
 }
